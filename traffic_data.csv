@@ -1,0 +1,4 @@
+Intersection_ID,Traffic_Density,Vehicle_Count,Time,Light_Timing
+INT-99,0.8,100,2024-01-05 02:00:00,Green
+INT-99,0.5,50,2024-01-05 02:05:00,Yellow
+INT-99,0.2,30,2024-01-05 02:10:00,Red
